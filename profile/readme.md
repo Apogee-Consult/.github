@@ -1,5 +1,5 @@
 # Apogée Consult — GitHub Organization
-[🇫🇷 Lire en français](./README.fr.md)
+[🇫🇷 Lire en français](./readme.fr.md)
 
 Building fast, reliable **web**, **mobile**, and **AI (RAG)** products for real-world impact. We ship pragmatic solutions quickly and cost-effectively with a strong engineering culture and clear quality standards.
 
