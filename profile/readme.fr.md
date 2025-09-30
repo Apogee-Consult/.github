@@ -1,5 +1,5 @@
 # Apogée Consult — Organisation GitHub
-[🇬🇧 Read in English](./README.md)
+[🇬🇧 Read in English](./readme.md)
 
 Nous concevons des produits **web**, **mobiles** et **IA (RAG)** rapides et fiables, avec une exigence de qualité et une approche pragmatique orientée résultats.
 
